@@ -8,6 +8,7 @@ How to use it ??
 2. If you are not sure about the version you are using, on your terminal type this :
    ```java -version```
 3. Download the .jar file ( CSVFactoryByJon.jar ) and create a new directory ( ex : myCSV )
+4. link : [jarFile](https://github.com/johnthezero/CSVFactory/blob/main/CSVFactoryByJon.jar)
 5. In your terminal, go to the directory you have created and type this line of code
   ```java -jar CSVFactoryByJon.jar```
 6. Enjoy !
